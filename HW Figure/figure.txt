@@ -1,0 +1,3 @@
+The figure of polty answer can be displayed in jupyter notebook, but often cannot be displayed on github.
+Therefore, you can choose to view it on my pdf file, which I converted .pynp file into .pdf file and uploaded in this folder, or you can view it on the .pynp file images, which I uploaded the screenshot to imgur.
+This folder saved the screenshot images, which I uploaded to imgur.
